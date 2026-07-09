@@ -1,4 +1,4 @@
-# Desenvolvimento de Software em Python: Sistema Modular e Programacao Defensiva
+# Desenvolvimento de Software em Python: Sistema Modular e Programação Defensiva
 
 Este repositorio apresenta o desenvolvimento de um sistema modular construido em Python, focado em engenharia de software aplicada, tratamento de excecoes e controle de fluxos com validacoes estruturadas.
 
